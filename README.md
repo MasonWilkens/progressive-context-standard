@@ -26,6 +26,6 @@ This package contains a draft specification and supporting material, not an impl
 
 ## Publication status
 
-No public repository or website has been created by preparing this package. Before public release, select the canonical publication location and a reuse license. This draft does not assign a license on the project owner's behalf.
+The [canonical PCS repository](https://github.com/MasonWilkens/progressive-context-standard) hosts the 0.2.0 working draft for review. Selection of a reuse license is pending.
 
 Third-party works are referenced, not bundled or relicensed. The source comparison documents what was reviewed and what was not.
